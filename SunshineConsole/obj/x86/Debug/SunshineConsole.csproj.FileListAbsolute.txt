@@ -1,0 +1,10 @@
+C:\SOME_NAME\OTHERCODE\SunshineConsole\SunshineConsole\SunshineConsole\bin\Debug\SunshineConsole.dll
+C:\SOME_NAME\OTHERCODE\SunshineConsole\SunshineConsole\SunshineConsole\bin\Debug\SunshineConsole.pdb
+C:\SOME_NAME\OTHERCODE\SunshineConsole\SunshineConsole\SunshineConsole\bin\Debug\OpenTK.dll
+C:\SOME_NAME\OTHERCODE\SunshineConsole\SunshineConsole\SunshineConsole\bin\Debug\OpenTK.pdb
+C:\SOME_NAME\OTHERCODE\SunshineConsole\SunshineConsole\SunshineConsole\bin\Debug\OpenTK.xml
+C:\SOME_NAME\OTHERCODE\SunshineConsole\SunshineConsole\SunshineConsole\obj\x86\Debug\SunshineConsole.csprojAssemblyReference.cache
+C:\SOME_NAME\OTHERCODE\SunshineConsole\SunshineConsole\SunshineConsole\obj\x86\Debug\SunshineConsole.csproj.CoreCompileInputs.cache
+C:\SOME_NAME\OTHERCODE\SunshineConsole\SunshineConsole\SunshineConsole\obj\x86\Debug\SunshineConsole.csproj.CopyComplete
+C:\SOME_NAME\OTHERCODE\SunshineConsole\SunshineConsole\SunshineConsole\obj\x86\Debug\SunshineConsole.dll
+C:\SOME_NAME\OTHERCODE\SunshineConsole\SunshineConsole\SunshineConsole\obj\x86\Debug\SunshineConsole.pdb
