@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunshineConsole", "SunshineConsole\SunshineConsole.csproj", "{5F9808F7-FF04-46D4-9506-319ADED1AB0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunshineConsoleDemo", "..\SunshineConsoleDemo\SunshineConsoleDemo\SunshineConsoleDemo.csproj", "{830BFAFE-4743-4259-AC7B-F1F1EE51755A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunshineConsoleDemo", "SunshineConsoleDemo\SunshineConsoleDemo\SunshineConsoleDemo.csproj", "{830BFAFE-4743-4259-AC7B-F1F1EE51755A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
