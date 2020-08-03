@@ -2,3 +2,5 @@
 SunshineConsole/obj/*
 SunshineConsole/bin/*
 packages/*
+../SunshineConsoleDemo/SunshineConsoleDemo/bin/*
+../SunshineConsoleDemo/SunshineConsoleDemo/obj/*
